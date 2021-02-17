@@ -11,9 +11,9 @@
 
     "sign":"Main Aria2",
 
-    "language":"zh-CN",
+    "language":"en",
 
-    "downloadFolder":"C:/aria2/Aria2Data",
+    "downloadFolder":"C:/aria2",
 
     "moveFolder":"C:/aria2/GoogleDrive"
    }
