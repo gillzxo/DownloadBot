@@ -11,7 +11,7 @@ require (
 	github.com/shirou/gopsutil v3.20.11+incompatible
 	github.com/technoweenie/multipartstreamer v1.0.1 // indirect
 	golang.org/x/sys v0.0.0-20201221093633-bc327ba9c2f0 // indirect
-	golang.org/x/text v0.3.3
+	golang.org/x/text v0.3.5
 	googledrive v0.0.0
 	onedrive v0.0.0
 )
